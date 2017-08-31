@@ -1,0 +1,13 @@
+header {
+	text-align: center;
+}
+
+div.container{
+	width: 90%;
+	margin: 0 auto;
+	background: #f9f9f9;
+	padding: 25px 25px 50px 25px;
+}
+footer{
+	width: 100%;
+}
